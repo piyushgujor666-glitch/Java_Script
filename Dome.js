@@ -18,16 +18,16 @@
 
 // how to insert element
 
-// let newbtn = document.createElement("button");
-// newbtn.innerText = "Click me!";
-// console.log(newbtn);
+let newbtn = document.createElement("button");
+newbtn.innerText = "Click me!";
+console.log(newbtn);
 
 // // How to add any element
 // let div = document.querySelector("div")
 // div.append(newbtn); // add inside div but in last
 // div.prepend(newbtn); // add inside div but starting position pe
 // div.before(newbtn); // add ouside div and before the div
-// div.after(newbtn); // add outside div and after the div
+// div.after(newbtn); //  add outside div and after the div
 
 // mew heading (Example)
 
